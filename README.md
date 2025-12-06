@@ -6,6 +6,8 @@ Ein Convolutional Neural Network (CNN) wird auf dem MNIST-Datensatz trainiert, u
 handgeschriebene Ziffern (0–9) zu erkennen. Zusätzlich können eigene Bilder
 (z.B. in Paint gezeichnete Ziffern) geladen und klassifiziert werden.
 
+<img width="797" height="495" alt="image" src="https://github.com/user-attachments/assets/6ac41e4c-8283-469c-9f03-d7438ec3d28b" />
+
 ## Features
 
 - Laden und Vorverarbeitung des MNIST-Datensatzes
@@ -28,5 +30,3 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 pip install -r requirements.txt
-# SimpleCNN-Ziffernerkennung
-# SimpleCNN-Ziffernerkennung
