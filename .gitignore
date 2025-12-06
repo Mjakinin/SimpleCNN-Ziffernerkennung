@@ -1,0 +1,13 @@
+# Python venv
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pth
+
+# Data (MNIST wird automatisch geladen)
+data/
